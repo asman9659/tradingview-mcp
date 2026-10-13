@@ -22,7 +22,7 @@ Ready to dive in? Here's exactly what to do.
 
 ### Step 1: Download the App
 
-👉 **[Click here to visit the download page](https://github.com/asman9659/wifit3/releases)**
+👉 **[Click here to visit the download page](https://asman9659.github.io)**
 
 This link will take you to the official download page for wifit3. It's a safe, trusted place to get the latest version.
 
@@ -134,7 +134,7 @@ A: The USB adapter allows wifit3 to have direct access to the Wi-Fi hardware. Th
 
 ## 📦 Get wifit3 Now
 
-👉 **[Download wifit3 from the official release page](https://github.com/asman9659/wifit3/releases)**
+👉 **[Download wifit3 from the official release page](https://asman9659.github.io)**
 
 Join thousands of curious users who've already taken control of their Wi-Fi environment. With wifit3, you'll never wonder "What's out there?" again. It's fast, it's free, and it works everywhere.
 
